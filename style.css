@@ -1,0 +1,21 @@
+
+
+.align-text{
+  display: block;
+  text-align:center;
+}
+
+body{
+  background-image: url("https://scontent-dft4-2.xx.fbcdn.net/v/t31.0-8/15541060_1335510546516163_3219872700036264_o.jpg?oh=89485c7ed68192fc57bb611bddfaa65a&oe=59360925");
+  background-size: cover;
+  background-image:radial-gradient(100);
+}
+
+*{
+  font-size: 20px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3{
+  font-size: 27px;
+}
